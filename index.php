@@ -57,7 +57,7 @@
                     <a href="pages/first.php">
                         <img src="images/entry1.png" alt="Lights" style="width:100%">
                         <div class="caption">
-                            <p class="text-center">Entry 1</p>
+                            <p class="text-center">My First Impression of Data Privacy</p>
                         </div>
                     </a>
                 </div>

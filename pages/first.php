@@ -36,16 +36,19 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="text-center">Blog Entry#1</h1>
+                <h1 class="text-center">My First Impression of Data Privacy</h1>
             </div>
         </div>
         <br><br><br><br>
         <div class="row">
             <div class="col-md-12">
-                <div class="well" style="text-align: justify;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+                <div class="well" style="text-align: justify;">Back then, I used to think that data privacy and security talks about applying a security mechanisms in an information system such as implementing security in databases, anticipating the vulnerabilities in a website, designing a network that is secure that a data breach can be prevented and so on in terms of technicalities in an information systems. <span style="color:red">But</span> it seems that there's still room for improvement about understanding on what data privacy is. As we started our classes on our Data Privacy and security subject, we began first by discussing what data privacy is, how privacy and security correlates from each other, how important privacy is and why should we give a concern about it and so on. The one that hits me the most is that whenever we post a picture in a social media or any platform that is open to public, we should ask a consent first that was included in the picture to post the picture on our behalf. Back then I used to post my classmates picture without their consent and sometimes I even post pictures that are considered as an act of mocking or bullying, but now, every picture that I post on social media, I always ask a consent first because I might face any legal actions if I violated the RA 10173. After that first class in the data privacy and security subject, I've learned something that I should exhibit professionalism in terms of posting something in social media. I also learned that applying security mechanisms in an information is not the main idea of the data privacy and security, its about legal actions, and sharing the data in a right way. There's a lot of definition of privacy but as for myself, I think I can define it in a way that is all about a method on how to protect data of an individual or an organization so that the data or information will be maintained in a confidentiality, integrity, and availability.
+            </div>
 
             </div>
         </div>
+
+
 
         <!-- right media object -->
         <div class="row">
@@ -56,7 +59,7 @@
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Cedrick James Felicitas</h4>
-                        <p>As for the criticism of your work, it seems that your point of view is somehow connected to the concerns of data privacy</p>
+                        <p>Please feel free to share your ideas about my blog by just leaving a comment below, I'm open to criticisms and suggestions.</p>
                     </div>
                 </div>
                 <hr>
