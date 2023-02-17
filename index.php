@@ -54,7 +54,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="thumbnail">
-                    <a href="/w3images/lights.jpg">
+                    <a href="pages/first.php">
                         <img src="images/entry1.png" alt="Lights" style="width:100%">
                         <div class="caption">
                             <p class="text-center">Entry 1</p>
